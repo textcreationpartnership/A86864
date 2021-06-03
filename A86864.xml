@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble remonstrance of the reduced officers declaring their grievances to the Parliament and kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86864</idno><idno type="EEBO-CITATION">99862745</idno>
+  <idno type="VID">161601</idno>
+  <idno type="EEBO-PROQUEST">2240961599</idno>
+  
+            <idno type="STC">Wing H3624</idno>
+            <idno type="STC">Thomason E435_41</idno>
+            <idno type="STC">ESTC R202488</idno>
+            <idno type="PROQUEST">99862745</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862745e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161601)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble remonstrance of the reduced officers declaring their grievances to the Parliament and kingdome.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year· 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="topical_term">Soldiers --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161601:1"/>
+            <p>The Humble REMONSTRANCE OF THE Reduced Officers DECLARING Their Grievances to the PARLIAMENT AND KINGDOME.</p>
+            <p>Printed in the Year. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:161601:2"/>
+            <pb n="3" facs="tcp:161601:2"/>
+            <head>THE Humble Remonstrance OF THE <hi>Reduced Officers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>VEE the Reduced Officers who have served the Parliament faithfully and honorably under the Commands of the late Earl of <hi>Essex</hi> his Excellence and other their late Generalls ha<g ref="char:EOLhyphen"/>ving made so many vain and fruit<g ref="char:EOLhyphen"/>lesse addresses to the Parliament for the Arrears of our sallaries, are now at length forced in our own Vindication to manifest to the world both our ser<g ref="char:EOLhyphen"/>vices and sufferings, and how contemptibly we have been used in reward of our good services.</p>
+            <p>We are confident it is not yet so long since the beginning of the late unhappie differences between his Majestie and this Parliament, that either they or the Kingdome can forget with what forwardness and zeal we adventured our lives and fortunes in their just defence, lesse valuing the safety of our selves our wives children and Estates then we did the preser<g ref="char:EOLhyphen"/>vation of the Protestant Religion, or his Majesties person, and of them; of the Laws Liberties, and Peace
+<pb n="4" facs="tcp:161601:3"/> of the Kingdom, and the freeing of his Majesties subjects from violence and oppression: with how much constancy, patience and fidelity we proceed<g ref="char:EOLhyphen"/>ed while we were in Arms, and with how much o<g ref="char:EOLhyphen"/>bedience we submitted to the Ordinance for our Re<g ref="char:EOLhyphen"/>ducement; We are certain they neither will nor can deny. But when we consider what difference they have made betwixt us and the now Army, in their care and industry to satisfie the one both in point of Arrears and Indempnity; and their neglect of us in both, who have born the burthen and heat of the day, we cannot but be struck into admiration at the cause.</p>
+            <p>Far be it from us any way to grudg or repine at a<g ref="char:EOLhyphen"/>ny thing they either have done or shall do in heaping welth, honour or protection upon this Army that have deserved so well, for the just Master may give of his own to whomsoever he please; Yet we humbly conceive it would be far unbecoming the credit and reputation of any just man to detain the wages of those honest and faithful servants that have perform<g ref="char:EOLhyphen"/>ed faithfully their several imployments and gone through the greatest difficulties of the work; and to satisfie those that come in at the last hour, and only finish what the other have wrought up.</p>
+            <p>It is now at least three years since we were redu<g ref="char:EOLhyphen"/>ced, and the New Model marched forth, in all which time those of us that have considerable sums due to us have not received the moyty of the Interest of our moneys in Arrear due, and that to be deducted of the principals; so that our three years at<g ref="char:EOLhyphen"/>tendance hath (in leiw of that moity of the interest received) cost us as much as our whole Arrears a<g ref="char:EOLhyphen"/>mount unto; so that it had been a courtesie at first
+<pb n="5" facs="tcp:161601:3"/> to have told us we should never have been payd, for then we should not have wasted our fortunes in ex<g ref="char:EOLhyphen"/>pectation, but have engaged our selves either in some forraign or domestique imployments, whereby to have obtained, at least, our present subsistances, if not an augmentation of our future estates.</p>
+            <p>Many of us, who are indebted to private men, not above a fourth or sixth part of what the State are indebted to us, have been arrested, and many remain yet prisoners upon those Arrests, and could neither obtain from the Parliament Protection be<g ref="char:EOLhyphen"/>fore they were sued, nor being in prison, can yet get of their Arrears so much as to pay their debts, or yet to keep them from hunger and lice; nay many times for want of money to pay the Goalers rent, they are often times thrust into the common Goals amongst Theeves and Murtherers, Pick pockets and Whores, and many of them (and of others also that had their liberties) have starved to death for want of food, to whom the Parliament have stood indebted in many thousands of pounds; and many more of us there are remaining yet alive, who a e in the like condition, for whom, if some speedy cours be not taken to preserve them, they must of necessity perish: and many more there are of us, even of the better sort, who have contracted such debts in the time of our attendance, that we dare not shew our heads, being unprotected; neither have we so much credit left as to procure our longer subsist<g ref="char:EOLhyphen"/>ance; so that if we have not some speedy relief we must by necessity be compeld to lay hold on any occasion to keep us from starving.</p>
+            <p>But here we meet an objection cast in by some who say, That we may thank our selves that we have not satisfaction as wel as the Army, for that the Army stood for us as well as themselves until such time as we engaged with the City a<g ref="char:EOLhyphen"/>gainst them, by which Engagement we have justly not only deserved their desertion, but also forfeited our Arrears.
+<pb n="6" facs="tcp:161601:4"/> To which we answer, first, that we were not all en<g ref="char:EOLhyphen"/>gaged at that time with the City, and yet those that were not engaged have not since received any consi<g ref="char:EOLhyphen"/>deration more then ordinary either in point of Ar<g ref="char:EOLhyphen"/>rears or Indemptnity, nor are they more protected or relieved then the rest. Secondly, we are not ig<g ref="char:EOLhyphen"/>norant that we are rendred both to the Parliament and Army, in horrid aspects, as opposers of both, and favorers of the Presbyterian party; To which we answer, that we do beleeve we are scarce all of one opinion in point of Church-Government; And that we stand indifferently affected to all parties that vary from those principles upon which we first were engaged in the Parliament service; for as we are the same men, so have we the same minds and reso<g ref="char:EOLhyphen"/>lutions either Actively or Passively to lay down our lives in the maintenance of those principles, in the defence whereof we have already ventured our lives, limbs, liberties and estates. We could therfore wish that the Parliament and the Army would bepleased to declare their present principles, in which if they vary not essentially from our former undertakings, our lives and fortunes in spite of their neglect of us) shall still wait on them. In the mean time we expect (as fellow-sufferers for the same cause) their present protection and satisfaction in point of Ar<g ref="char:EOLhyphen"/>rears and Indempnity. Neither need the Army or any others insist so much upon our listing with the City, since we did nothing therein, but by the same Authority that must justifie both their Armes and ours, (<hi>viz.</hi>) An Ordinance of Parliament; upon which had the Army been in our case, we are confi<g ref="char:EOLhyphen"/>dent
+<pb n="7" facs="tcp:161601:4"/> they would have done the like. And ungrate<g ref="char:EOLhyphen"/>ful had we been to these Commanders under whom we had formerly served and gained our several pre<g ref="char:EOLhyphen"/>ferments: And unworthy were we yet to receive our Arrears, if we should refuse to serve them, be<g ref="char:EOLhyphen"/>ing called thereto by just power, and not being o<g ref="char:EOLhyphen"/>therwise pre ingaged, we suppose his now Excel<g ref="char:EOLhyphen"/>lence would think those Officers did ill requite his favors that should desert him when he had most oc<g ref="char:EOLhyphen"/>casion to use them; but in reward of this our fide<g ref="char:EOLhyphen"/>lity, and because we cannot vary our principles with our conditions, our sufferings shall be unparalelled and whilest the Army receive both Pay and Quar<g ref="char:EOLhyphen"/>ters, Goals hourly devour us for our dayly bread, being unpayd and unprotected: but if the State shall proceed to neglect us, as they have done, we shal have just cause to say, the Royalists have recei<g ref="char:EOLhyphen"/>ved more favor, for being enemie, then we can ob<g ref="char:EOLhyphen"/>tain justice being friends. And those that cherish not obedience teach the contrary.</p>
+            <p>Some others of us there are, that having suffered imprisonment with the enemy, and our charges ha<g ref="char:EOLhyphen"/>ving been otherwise disposed of in the time of our durance, have submitted our selves at our returns, to serve in the several Armies of the Parliament, as Reformadoes, rather then to relinquish their service, and were allowed by our several General for that service one half of our personal pays as Conforma<g ref="char:EOLhyphen"/>does, with allowance for such horses as we had in the service extant. Yet now we cannot be allowed any thing for the Arrears of that service, though we per<g ref="char:EOLhyphen"/>petually either commanded forth parties, or forlorn
+<pb n="8" facs="tcp:161601:5"/> hope upon all occasions, neither have the Parlia<g ref="char:EOLhyphen"/>ment given any establishment for the same, not<g ref="char:EOLhyphen"/>withstanding there have been severall Petitions a<g ref="char:EOLhyphen"/>bout it in the house above this two years, to which they never so much as vouchsafed and Answer.</p>
+            <p>These things being all laid together we shall sub<g ref="char:EOLhyphen"/>mit to the judgement both of Parliament and King<g ref="char:EOLhyphen"/>dome, hoping that the well-affected will be as for<g ref="char:EOLhyphen"/>ward in our behalfs to solicite the Parliament to maintain the Covenant both <hi>Conjuctim</hi> and <hi>Divisim</hi> and to preserve the Unity between the two Nations, and to procure us satisfaction in point of Arrears and Indempnity; as we were at first to enter into Covenant with them, and to haz ard our lives for the defence of their liberties and Estates. Which that the Just Revenger of the Covenant-Keepers up<g ref="char:EOLhyphen"/>on the Covenant-breakers, will incourage them to do, shall be the constant prayers of,</p>
+            <closer>
+               <signed>The Reduced Officers, late under the Command of the
+<list>
+                     <item>
+                        <hi>Earle of Essex</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of Warwick</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of De<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>igh</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of Manchester.</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of Stamford</hi>
+                     </item>
+                     <item>
+                        <hi>Lord Gray of Wark</hi>
+                     </item>
+                     <item>
+                        <hi>Lord Gray of Grooby</hi>
+                     </item>
+                     <item>
+                        <hi>L. Willoughby of Parham</hi>
+                     </item>
+                     <item>
+                        <hi>Lord Brooks</hi>
+                     </item>
+                     <item>
+                        <hi>Lord Fard. Fairfax.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir William Waller.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir William Brereton.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir Tho. Middleton.</hi>
+                     </item>
+                     <item>
+                        <hi>Major General Massey</hi>
+                     </item>
+                     <item>
+                        <hi>Major General Mitton.</hi>
+                     </item>
+                     <item>
+                        <hi>Major Generall Brown</hi>
+                     </item>
+                     <item>
+                        <hi>Major Gen. Langharne</hi>
+                     </item>
+                     <item>
+                        <hi>Sir John Gell</hi>
+                     </item>
+                     <item>
+                        <hi>Major Generall Poyntz.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir John Meldrum.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
